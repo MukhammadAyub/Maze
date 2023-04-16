@@ -8,7 +8,8 @@ window = pygame.display.set_mode((400, 700))
 background = pygame.image.load('ggg (1).jpg')
 background = pygame.transform.scale(background, (400, 700))
 
-
+def print_info():
+    pass
 
 
 # hp_image = pygame.image.load("hp1.png")
